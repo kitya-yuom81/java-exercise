@@ -41,4 +41,4 @@ The exercises cover a wide range of Java topics, including:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/java-exercises.git
+   git clone https://github.com/kitya-yuom81/java-exercises.git
